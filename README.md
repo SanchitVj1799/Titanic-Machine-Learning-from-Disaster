@@ -1,1 +1,2 @@
-# Titanic-Machine-Learning-from-Disaster
+Link to kaggle notebook:
+https://www.kaggle.com/sanchitvj/titanic
